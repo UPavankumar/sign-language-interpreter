@@ -16,7 +16,7 @@ This repository contains code for recognizing American Sign Language (ASL) gestu
 ```
 git clone https://github.com/UPavankumar/sign-language-interpreter.git
 cd sign-language-interpreter
----
+```
 2. Install the required packages:
 
 ```
